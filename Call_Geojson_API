@@ -2,7 +2,8 @@
 # coding: utf-8
 
 """
-Modified by: MCHsu1
+Created on 2020.07.03
+Author: MCHsu1
 """
 
 import pymssql
