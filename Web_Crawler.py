@@ -1,3 +1,8 @@
+"""
+Created on 2020.08
+Author: Alison
+"""
+
 # HTTP Method: GET(), POST()
 import requests as rq
 from bs4 import BeautifulSoup as BS
